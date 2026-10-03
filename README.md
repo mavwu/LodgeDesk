@@ -93,3 +93,7 @@ These are created by the seed script and can be changed through `ADMIN_EMAIL` an
 ## License
 
 This project is available under the [MIT License](LICENSE).
+
+## Implementation guide
+
+See the [implementation guide](docs/PROJECT_GUIDE.md) for repository scope, local evaluation, code responsibilities, and verification expectations.
